@@ -63,7 +63,7 @@ void horizontalLine(int x,int y,int w,int colour);
 void rect(int x,int y,int h,int w,int colour);
 void fill_rect(int x,int y,int h,int w,int colour);
 int  setcursor(int x,int y);
-void putcharecter(int x,int y,char c,int colour);
+//void putcharecter(int x,int y,char c,int colour);
 void putstring(int x,int y,char *s,int colour,int textsize);
 
 #endif
